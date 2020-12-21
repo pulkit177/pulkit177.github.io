@@ -28,7 +28,7 @@ twitter_username: pg177
 github_username:  pulkit177
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
